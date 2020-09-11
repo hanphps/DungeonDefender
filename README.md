@@ -1,2 +1,2 @@
 # DungeonDefender
-Small project using Solar2D
+Small project using Solar2D. WIP

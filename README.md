@@ -4,13 +4,8 @@ This is a small dungeon defending game project using Solar2D.
 This project is currently a work in progress. Updates are rolled out continuously as I complete certain milestones.
 
 # Plan Going Forward
-```mermaid
-graph LR
-A[Finish Bare Bone Milestones] --> B['Touching-up' Milestones] 
-B --> C[Alpha Release]
-C --> D[Feedback-based Updates]
+[Bare Bone Milestones] -> ['Touching-up' Milestones] -> [Alpha Release] -> [Feedback-based Updates]
 
-```
 ## Bare-Bone Milestones
 - [x] Main Menu
 	- [x] Buttons
